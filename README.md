@@ -13,6 +13,8 @@ A Python-based application for processing employee records from a CSV file and s
 ### Clone the Repository
 
 git clone https://github.com/Birakisor/Employee-Record-System.git
+
+## go to folder
 cd Employee-Record-System
 
 ## Installation and Steps
